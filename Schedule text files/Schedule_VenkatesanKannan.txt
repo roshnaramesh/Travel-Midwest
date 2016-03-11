@@ -1,0 +1,13 @@
+Name: Venkatesan Kannan
+
+
+Schedule and deliverables:
+   
+  Featrures                                                                            Deadline
+
+- Create database schema for login, registration and incident report          -- Monday 11pm (estimate 3 hours)
+- Create login & Registration Page                                            -- Monday 11pm (estimate 4 hours)
+- Servlet & Mapping for login & Registration Page                             -- Tuesday 11pm (estimate 4 hours)
+- Conceputalize & develop Incident reporting system                           -- Wednesday 11pm (estimate 6 hours)
+
+

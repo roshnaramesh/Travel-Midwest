@@ -1,0 +1,66 @@
+@import url(fontStyle.css);
+@import url(bootstrap.min.css);
+
+body {
+    font-size: 1.2em;
+    font-family: calibri, sans-serif;
+}
+
+#register-form label.error {
+ 	color:#FB3A3A;
+ 	font-weight:bold;
+}
+
+#profile-form label.error {
+	color:#FB3A3A;
+ 	font-weight:bold;
+}
+
+.Register-Image {
+	background-image: url(../images/Register.png);
+}
+.LoginBackGround-Image {
+	background-image: url(../images/LoginBackground.jpg);	
+}
+
+.Register- Image,.LoginBackGround-Image,
+ {
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-attachment: fixed;	
+}
+h1 {
+	font-size: 36px;
+	margin-top: 30px;
+	text-align: center;
+}
+h2, p, li { font-family: calibri, sans-serif; }
+
+
+/*Login Page - Icons for UserName and Password */
+.Input_Icons { position: relative; }
+.Input_Icons .fa {
+	color: #800040;
+	position: absolute;
+	left: 10px;
+	top: 10px;
+}
+.Input_Icons input, 
+.Input_Icons textarea {
+	padding-left: 30px;
+}
+
+/* Form Design */
+.FormDesign {
+	background-color: rgba(15,15,15,0.25);
+	color: #ffff80;
+	font-size: 15px;
+	max-width: 650px;
+	padding: 0 30px 30px 30px;
+	margin: 30px auto 0 auto;
+}
+.FormDesign h1 { color: #b0d827; margin-bottom: 40px; }
+.FormDesign .btn {	color: #ffffff; width: 100%}
+.FormDesign label { font-weight: 400;}
+.FormDesign .BorderLine { border-right: 1px solid rgba(200, 200, 200, 0.5); }
+

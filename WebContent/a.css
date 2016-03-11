@@ -1,0 +1,32 @@
+#form1{
+	  padding: 10px 20px;
+	  text-align: center;
+	font-size: 20px;
+}
+h1{
+color: white;
+text-align: center;
+}
+.container{
+    display:flex;
+    background-color:#2E4272;
+}
+.left{
+    width: 70%;
+    background-color:#4F628E;
+    padding: 10px;
+}
+.right{
+    flex-grow: 1;
+    background-color:#7887AB;
+    padding: 10px;
+}
+th, td {
+    border: 1px solid;
+    background-color:#7887AB;
+}
+th {
+    font-weight : bold;
+    background-color: black;
+    color:white;
+}
