@@ -4,7 +4,9 @@ The aim of this project is to redesign the web interface so that it follows the 
 The system uses PostgreSQL database management system and supports LAMP architecture.
 
 Functional Requirements
+
 The following are the requirements collected from the client.They are ranked according to priority:
+
 1. Improve the readability of the website
 2. Improve the font styles and color combinations
 3. The map and the menus should be on the home page
